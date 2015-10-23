@@ -1,4 +1,5 @@
 __pycache__
 .DS_Store
 venv
+set-environment.sh
 
