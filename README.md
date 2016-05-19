@@ -3,9 +3,10 @@ Mastering Social Media Mining with Python
 
 Code repository for _Mastering Social Media Mining with Python_ (July 2016)
 
-![Book cover](book-cover.jpg "Mastering Social Media Mining with Python")
+<img src="https://github.com/bonzanini/Book-SocialMediaMiningPython/blob/master/book-cover.jpg" alt="Book cover" width="200" />
 
 Ebook and paperback at [Packt Publishing](https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-python "Mastering Social Media Mining with Python") (the publisher)
+
 Ebook and paperback at [Amazon UK](https://www.amazon.co.uk/Mastering-Social-Media-Mining-Python/dp/1783552018 "Mastering Social Media Mining with Python")
 
 The full companion code for the book will be released when the book will be published.
