@@ -1,0 +1,19 @@
+<html>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+<body>
+    
+    Searching for <strong>{{ query }}</strong>:
+
+    {% for item in results %}
+    <div class="{{ loop.cycle('row_odd', 'row_even') }}">
+        <a href="{{ item.url }}">{{ item.displayName }}</a> ({{ item.objectType}})<br />
+        <a href="{{ item.url }}">
+            <img src="{{ item.image.url }}" />
+        </a>
+    </div>
+    {% endfor %}
+
+    <p><a href="/">New search</a></p>
+
+</body>    
+</html>
