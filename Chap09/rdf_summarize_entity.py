@@ -15,9 +15,9 @@ if __name__ == '__main__':
     g = rdflib.Graph()
     g.parse(entity_url)
 
-    disambiguate = 'http://dbpedia.org/ontology/wikiPageDisambiguates'
+    disambiguate_url = 'http://dbpedia.org/ontology/wikiPageDisambiguates'
     query = (rdflib.URIRef(entity_url),
-             rdflib.URIRef(disambiguate),
+             rdflib.URIRef(disambiguate_url),
              None)
     disambiguate = list(g.triples(query))
     if len(disambiguate) > 1:
