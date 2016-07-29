@@ -7,3 +7,5 @@ stashed
 *.jsonl
 *.txt
 *.pickle
+*.png
+*.html
