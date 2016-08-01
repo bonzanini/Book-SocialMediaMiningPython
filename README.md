@@ -7,7 +7,7 @@ Code repository for _Mastering Social Media Mining with Python_ (July 2016)
 
 Ebook and paperback at [Packt Publishing](https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-python "Mastering Social Media Mining with Python") (the publisher)
 
-Ebook and paperback at [Amazon UK](https://www.amazon.co.uk/Mastering-Social-Media-Mining-Python/dp/1783552018 "Mastering Social Media Mining with Python")
+Ebook and paperback at [Amazon.com](https://www.amazon.com/Mastering-Social-Media-Mining-Python/dp/1783552018 "Mastering Social Media Mining with Python") and [Amazon UK](https://www.amazon.co.uk/Mastering-Social-Media-Mining-Python/dp/1783552018 "Mastering Social Media Mining with Python")
 
 Setting up the environment
 -----
