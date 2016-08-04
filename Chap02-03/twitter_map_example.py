@@ -12,7 +12,7 @@ def get_parser():
 def make_map(map_file):
     # Custom map
     sample_map = folium.Map(location=[50, 5],
-                            zoom_start=17)
+                            zoom_start=5)
     # Marker for London
     london_marker = folium.Marker([51.5, -0.12],
                                   popup='London')
