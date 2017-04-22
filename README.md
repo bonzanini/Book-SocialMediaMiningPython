@@ -11,7 +11,7 @@ Ebook and paperback at [Amazon.com](https://www.amazon.com/Mastering-Social-Medi
 
 Author's [blog post](https://marcobonzanini.com/2016/08/02/mastering-social-media-mining-with-python/ "Mastering Social Media Mining with Python") for a bird's eye view on the book
 
-Author profile (with book reviews/ratings) at [Goodreads.com](goodreads.com/marcobonzanini "Marco Bonzanini on goodreads.com")
+Author profile (with book reviews/ratings) at [Goodreads.com](https://goodreads.com/marcobonzanini "Marco Bonzanini on goodreads.com")
 
 If you've read the book, please consider leaving a review/rating on the above web sites. If you wrote a review (e.g. blog post), please let me know and I'll be happy to include it here.
 
