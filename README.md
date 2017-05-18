@@ -15,6 +15,8 @@ Author profile (with book reviews/ratings) at [Goodreads.com](https://goodreads.
 
 If you've read the book, please consider leaving a review/rating on the above web sites. If you wrote a review (e.g. blog post), please let me know and I'll be happy to include it here.
 
+Discussion Forum for readers on [Google Groups](https://groups.google.com/forum/#!forum/mastering-social-media-mining-with-python "Readers Discussion Forum"): this is a platform for readers to discuss the content of the book.
+
 Setting up the environment
 -----
 
