@@ -28,7 +28,7 @@ if __name__ == '__main__':
         'comments.summary(true)'
     ]
     all_fields = ','.join(all_fields)
-    posts = graph.get_connections('PacktPub', 'posts', fields=all_fields)
+    posts = graph.get_connections(args.page, 'posts', fields=all_fields)
 
     downloaded = 0
     while True:  # keep paginating
