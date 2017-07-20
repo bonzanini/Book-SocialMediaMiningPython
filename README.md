@@ -45,3 +45,11 @@ Install all the Python dependencies:
 
     pip install -r requirements.txt
 
+
+Known Errors and Corrections
+-----
+
+[List of known errors and corrections](./CORRECTIONS.md)
+
+If you find an error that is not listed here, please consider opening a GitHub issue with a short description of the problem.
+
