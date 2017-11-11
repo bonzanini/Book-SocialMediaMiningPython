@@ -46,6 +46,14 @@ Install all the Python dependencies:
     pip install -r requirements.txt
 
 
+
+Translations
+-----
+
+- [Russian](https://dmkpress.com/catalog/computer/programming/python/978-5-97060-574-5/) (Credits: [Andre Logunov](https://github.com/capissimo))
+
+
+
 Known Errors and Corrections
 -----
 
