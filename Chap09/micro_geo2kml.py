@@ -11,7 +11,7 @@ def get_parser():
     parser = ArgumentParser()
     parser.add_argument('--url')
     parser.add_argument('--output')
-    parser.add_argument('--n', default=20)
+    parser.add_argument('--n', type=int, default=20)
     return parser
 
 
