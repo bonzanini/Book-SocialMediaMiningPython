@@ -59,5 +59,5 @@ Known Errors and Corrections
 
 [List of known errors and corrections](./CORRECTIONS.md)
 
-If you find an error that is not listed here, please consider opening a GitHub issue with a short description of the problem.
+If you find an error that is not listed here, please consider opening a GitHub issue with a <b>short description</b> of the problem.
 
