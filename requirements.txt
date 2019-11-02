@@ -20,7 +20,7 @@ MarkupSafe==0.23
 matplotlib==1.5.1
 mf2py==1.0.5
 networkx==1.11
-nltk==3.2.1
+nltk==3.4.5
 numpy==1.11.1
 oauth2==1.9.0.post1
 oauth2client==2.2.0
