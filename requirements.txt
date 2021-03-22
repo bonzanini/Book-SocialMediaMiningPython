@@ -15,7 +15,7 @@ httplib2==0.9.2
 isodate==0.5.4
 itsdangerous==0.24
 Jinja2==2.8
-lxml==3.6.1
+lxml==4.6.3
 MarkupSafe==0.23
 matplotlib==1.5.1
 mf2py==1.0.5
